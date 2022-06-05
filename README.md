@@ -1,2 +1,2 @@
 # Projet-Test-Git
-initiation Git 
+Bienvenue sur GITHit
